@@ -1,2 +1,2 @@
-# Out-of-distribution/Anomaly Detection on Graphs
+# Out-of-Distribution/Anomaly Detection on Graphs
 
