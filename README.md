@@ -1,2 +1,2 @@
-# ood-detection-graph
-Out-of-distribution/Anomaly Detection on Graphs
+# Out-of-distribution/Anomaly Detection on Graphs
+
