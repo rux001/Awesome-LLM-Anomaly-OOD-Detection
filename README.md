@@ -43,5 +43,7 @@
 
 (CVPR 2024) [ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection](https://arxiv.org/pdf/2311.15243) by Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, Qinghua Hu
 
+(COLING 2024) [How Good Are LLMs at Out-of-Distribution Detection?](https://arxiv.org/pdf/2308.10261) by Bo Liu, Liming Zhan, Zexin Lu, Yujie Feng, Lei Xue, Xiao-Ming Wu
 
-
+(COLING 2024) [Semantic Role Labeling Guided Out-of-distribution Detection](https://arxiv.org/pdf/2305.18026) by Jinan Zou, Maihao Guo, Yu Tian, Yuhao Lin, Haiyao Cao, Lingqiao Liu, Ehsan Abbasnejad, Javen Qinfeng Shi
+ 
