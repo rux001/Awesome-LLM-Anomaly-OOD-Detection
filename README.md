@@ -1,4 +1,4 @@
-# Out-of-Distribution/Anomaly Detection on Graphs
+# Out-of-Distribution/Anomaly Detection
 ## Table of Contents
 
 - [Introduction](#introduction)
