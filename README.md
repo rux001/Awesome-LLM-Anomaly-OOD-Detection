@@ -28,6 +28,8 @@
 #### 2023
 (ICML 2023) [Unsupervised Out-of-Distribution Detection with Diffusion Inpainting](https://arxiv.org/pdf/2302.10326) by Liu et al.
 
+(ICLR 2023) [Out-of-distribution detection and selective generation for conditional language models](https://arxiv.org/pdf/2209.15558) by Jie Ren, Jiaming Luo, Yao Zhao, Kundan Krishna, Mohammad Saleh, Balaji Lakshminarayanan, Peter J. Liu
+
 (NeurIPS 2023) [Dream the Impossible: Outlier Imagination with Diffusion Models](https://arxiv.org/pdf/2309.13415) by Du et al.
 
 (NeurIPS 2023) [LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning](https://arxiv.org/pdf/2306.01293) by Miyai et al. [[Code]](https://github.com/AtsuMiyai/LoCoOp)
@@ -37,6 +39,8 @@
 (ICCV 2023) [CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No](https://arxiv.org/pdf/2308.12213) by Wang et al. [[Code]](https://github.com/xmed-lab/CLIPN)
 
 (ICCV 2023) [Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Deep_Feature_Deblurring_Diffusion_for_Detecting_Out-of-Distribution_Objects_ICCV_2023_paper.pdf) by Wu et al. [[Code]](https://github.com/AmingWu/DFDD-OOD)
+
+(EMNLP 2023) [Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection](https://arxiv.org/pdf/2310.08027) by Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, Yongbin Li
 
 #### 2024
 (ICLR 2024) [Out-Of-Distribution Detection With Negative Prompts](https://openreview.net/pdf?id=nanyAujl6e) by Nie et al.
