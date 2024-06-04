@@ -50,4 +50,9 @@
 (COLING 2024) [How Good Are LLMs at Out-of-Distribution Detection?](https://arxiv.org/pdf/2308.10261) by Bo Liu, Liming Zhan, Zexin Lu, Yujie Feng, Lei Xue, Xiao-Ming Wu
 
 (COLING 2024) [Semantic Role Labeling Guided Out-of-distribution Detection](https://arxiv.org/pdf/2305.18026) by Jinan Zou, Maihao Guo, Yu Tian, Yuhao Lin, Haiyao Cao, Lingqiao Liu, Ehsan Abbasnejad, Javen Qinfeng Shi
- 
+
+### Anomaly Detection
+(CVPR 2023) [Winclip: Zero-/few-shot anomaly classification and segmentation](https://arxiv.org/pdf/2303.14814) by Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer
+
+(ICLR 2024) [AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection](https://openreview.net/pdf?id=buC4E91xZE) by Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen
+
