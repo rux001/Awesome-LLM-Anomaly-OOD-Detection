@@ -56,3 +56,5 @@
 
 (ICLR 2024) [AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection](https://openreview.net/pdf?id=buC4E91xZE) by Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen
 
+(AAAI 2024) [AnomalyGPT: Detecting Industrial Anomalies Using Large Vision-Language Models](https://arxiv.org/pdf/2308.15366) by Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang
+
