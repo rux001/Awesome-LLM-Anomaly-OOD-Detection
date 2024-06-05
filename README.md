@@ -44,6 +44,8 @@
 
 (ICLR 2023) [Out-of-distribution detection and selective generation for conditional language models](https://arxiv.org/pdf/2209.15558) by Jie Ren, Jiaming Luo, Yao Zhao, Kundan Krishna, Mohammad Saleh, Balaji Lakshminarayanan, Peter J. Liu
 
+(arXiv 2023) [On the robustness of ChatGPT: An adversarial and out-of-distribution perspective](https://arxiv.org/abs/2302.12095) by Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie
+
 (ACL 2023) [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://arxiv.org/pdf/2211.11300) by Qianhui Wu, Huiqiang Jiang, Haonan Yin, Börje F. Karlsson, Chin-Yew Lin
 
 (COLING 2024) [How Good Are LLMs at Out-of-Distribution Detection?](https://arxiv.org/pdf/2308.10261) by Bo Liu, Liming Zhan, Zexin Lu, Yujie Feng, Lei Xue, Xiao-Ming Wu
@@ -59,9 +61,14 @@
 
 (arXiv 2021) [OODformer: Out-Of-Distribution Detection Transformer](https://arxiv.org/pdf/2107.08976) by Rajat Koner, Poulami Sinhamahapatra, Karsten Roscher, Stephan Günnemann, Volker Tresp
 
+(arXiv 2023) [Can pre-trained networks detect familiar out-of-distribution data?]([https://arxiv.org/abs/2311.12076](https://arxiv.org/abs/2310.00847) by Atsuyuki Miyai, Qing Yu, Go Irie, and Kiyoharu Aizawa
+
+(arXiv 2023) [Towards few-shot out-of-distribution detection](https://arxiv.org/abs/2311.12076) by Jiuqing Dong, Yongbin Gao, Heng Zhou, Jun Cen, Yifan Yao, Sook Yoon, Park Dong Sun
+
 (CVPR 2023) [Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling Is All You Need](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.pdf) [[Code]](https://github.com/JulietLJY/MOOD) by Li et al.
 
 (ICLR 2024 Workshop) [How to train your ViT for OOD Detection](https://arxiv.org/pdf/2405.17447) by Maximilian Mueller, Matthias Hein
+
 
 ### OOD Detection for Multimodal Models
 
@@ -84,7 +91,14 @@
 
 (CVPR 2024) [ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection](https://arxiv.org/pdf/2311.15243) by Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, Qinghua Hu
 
+(CVPR 2024) [Learning transferable negative prompts for out-of-distribution detection](https://arxiv.org/abs/2404.03248) by Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, and Jin Zheng
+
 (TMLR 2024) [Adapting Contrastive Language-Image Pretrained (CLIP) Models for Out-of-Distribution Detection](https://openreview.net/pdf?id=YCgX7sJRF1) by Nikolas Adaloglou, Felix Michels, Tim Kaiser, Markus Kollmann
+
+(AAAI 2024) [Tagfog: Textual anchor guidance and fake outlier generation for visual out-of-distribution detection](https://ojs.aaai.org/index.php/AAAI/article/view/27871) by Jiankang Chen, Tong Zhang, Weishi Zheng, and Ruixuan Wang
+
+(WACV) [Domain aligned CLIP for few-shot classification](https://arxiv.org/abs/2311.09191) by Muhammad Waleed Gondal, Jochen Gast, Inigo Alonso Ruiz, Richard Droste, Tommaso Macri, Suren Kumar, and Luitpold Staudigl
+
 
 #### Diffusion Models
 
