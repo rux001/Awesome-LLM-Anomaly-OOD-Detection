@@ -219,7 +219,7 @@
 
    *Ruifan Zhang, Hao Wang, Mingyao Feng, Yikun Liu, and Gongping Yang.*
 
-#### [GAN]
+#### GAN
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
    *Muhammad Zaigham Zaheer, Jin-Ha Lee, Arif Mahmood, Marcella Astri, and Seung-Ik Lee.* 
@@ -304,7 +304,7 @@
 
    *Qinliang Su, Bowen Tian, Hai Wan, and Jian Yin.*
 
-### [Flow]
+### Flow
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
 
    *Lukasz Maziarka, Marek Smieja, Marcin Sendera, Lukasz Struski, Jacek Tabor, and Przemyslaw Spurek.* 
@@ -401,7 +401,7 @@
 
    *Xincheng Yao, Ruoqi Li, Zefeng Qian, Lu Wang, and Chongyang Zhang.*
 
-#### [Diffusion Model]
+#### Diffusion Model
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
    *Julian Wyatt, Adam Leach, Sebastian M. Schmon, and Chris G. Willcocks.* 
@@ -518,7 +518,7 @@
 
    *Lujia Zhong, Shuo Huang, Jiaxin Yue, Jianwei Zhang, Zhiwei Deng, Wenhao Chi, and Yonggang Shi.*
 
-#### [Transformer]
+#### Transformer
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
    *Guodong Shen, Yuqi Ouyang, and Victor Sanchez.* 
@@ -659,7 +659,7 @@
 
    *Maximilian Mueller and Matthias Hein.* 
 
-#### [Convolution]
+#### Convolution
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
    *Nicolae-Catalin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, and Mubarak Shah.* 
@@ -728,7 +728,7 @@
 
    *Jianwei Fei, Yunshu Dai, Peipeng Yu, Tianrun Shen, Zhihua Xia, and Jian Weng.* 
 
-#### [GNN]
+#### GNN
 1. **Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 
    *Jiaxing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, and Ge Li.* 
@@ -945,7 +945,7 @@
 
    *Tim Poštuvan, Claas Grohnfeldt, Michele Russo, and Giulio Lovisotto.* 
 
-#### [Time Series]
+#### Time Series
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
    *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
@@ -1106,7 +1106,7 @@
 
    *Hong Liu, Xiuxiu Qiu, Yiming Shi, and Zelin Zang.*
 
-#### [Tabular]
+#### Tabular
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
    *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
@@ -1293,7 +1293,7 @@
 
    *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, and Shirui Pan.* 
 
-#### [Reinforcement Learning]
+#### Reinforcement Learning
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
    *Chengqiang Huang, Yulei Wu, Yuan Zuo, Ke Pei, and Geyong Min.* 
@@ -1415,7 +1415,7 @@
 
    *Yunhe Zhang, Yan Sun, Jinyu Cai, and Jicong Fan.* 
 
-#### [Nonparametric Approach]
+#### Nonparametric Approach
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
 
    *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
