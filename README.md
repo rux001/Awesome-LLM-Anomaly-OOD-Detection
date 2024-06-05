@@ -17,7 +17,6 @@
     - [GNN](#content)
     - [Time Series](#content)
     - [Tabular](#content)
-    - [Out of Distribution](#content)
     - [Large Model](#content)
     - [Reinforcement Learning](#content)
     - [Representation Learning](#content)
@@ -107,7 +106,7 @@
 (EMNLP 2023) [Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection](https://arxiv.org/pdf/2310.08027) by Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, Yongbin Li
 
 ### Anomaly Detection
-#### AutoEncoder(#content)
+#### AutoEncoder
 1. **Graph regularized autoencoder and its application in unsupervised anomaly detection.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/document/9380495)
 
    *Imtiaz Ahmed, Travis Galoppo, Xia Hu, and Yu Ding.* 
@@ -220,7 +219,7 @@
 
    *Ruifan Zhang, Hao Wang, Mingyao Feng, Yikun Liu, and Gongping Yang.*
 
-#### [GAN](#content)
+#### [GAN]
 1. **Stabilizing adversarially learned one-class novelty detection using pseudo anomalies.** TIP, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9887825)
 
    *Muhammad Zaigham Zaheer, Jin-Ha Lee, Arif Mahmood, Marcella Astri, and Seung-Ik Lee.* 
@@ -305,7 +304,7 @@
 
    *Qinliang Su, Bowen Tian, Hai Wan, and Jian Yin.*
 
-### [Flow](#content)
+### [Flow]
 1. **OneFlow: One-class flow for anomaly detection based on a minimal volume region.** TPAMI, 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9525256)
 
    *Lukasz Maziarka, Marek Smieja, Marcin Sendera, Lukasz Struski, Jacek Tabor, and Przemyslaw Spurek.* 
@@ -402,7 +401,7 @@
 
    *Xincheng Yao, Ruoqi Li, Zefeng Qian, Lu Wang, and Chongyang Zhang.*
 
-#### [Diffusion Model](#content)
+#### [Diffusion Model]
 1. **AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.html)
 
    *Julian Wyatt, Adam Leach, Sebastian M. Schmon, and Chris G. Willcocks.* 
@@ -519,7 +518,7 @@
 
    *Lujia Zhong, Shuo Huang, Jiaxin Yue, Jianwei Zhang, Zhiwei Deng, Wenhao Chi, and Yonggang Shi.*
 
-#### [Transformer](#content)
+#### [Transformer]
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
    *Guodong Shen, Yuqi Ouyang, and Victor Sanchez.* 
@@ -660,7 +659,7 @@
 
    *Maximilian Mueller and Matthias Hein.* 
 
-#### [Convolution](#content)
+#### [Convolution]
 1. **Self-supervised predictive convolutional attentive block for anomaly detection.** CVPR, 2022. [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Ristea_Self-Supervised_Predictive_Convolutional_Attentive_Block_for_Anomaly_Detection_CVPR_2022_paper.html)
 
    *Nicolae-Catalin Ristea, Neelu Madan, Radu Tudor Ionescu, Kamal Nasrollahi, Fahad Shahbaz Khan, Thomas B. Moeslund, and Mubarak Shah.* 
@@ -729,7 +728,7 @@
 
    *Jianwei Fei, Yunshu Dai, Peipeng Yu, Tianrun Shen, Zhihua Xia, and Jian Weng.* 
 
-#### [GNN](#content)
+#### [GNN]
 1. **Graph convolutional label noise cleaner: Train a plug-and-play action classifier for anomaly detection.** CVPR, 2019. [paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)
 
    *Jiaxing Zhong, Nannan Li, Weijie Kong, Shan Liu, Thomas H. Li, and Ge Li.* 
@@ -946,7 +945,7 @@
 
    *Tim Poštuvan, Claas Grohnfeldt, Michele Russo, and Giulio Lovisotto.* 
 
-#### [Time Series](#content)
+#### [Time Series]
 1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
 
    *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
@@ -1107,7 +1106,7 @@
 
    *Hong Liu, Xiuxiu Qiu, Yiming Shi, and Zelin Zang.*
 
-#### [Tabular](#content)
+#### [Tabular]
 1. **Beyond individual input for deep anomaly detection on tabular data.** arXiv, 2023. [paper](https://arxiv.org/abs/2305.15121)
 
    *Hugo Thimonier, Fabrice Popineau, Arpad Rimmel, and Bich-Liên Doan.* 
@@ -1142,298 +1141,10 @@
 
 1. **MCM: Masked cell modeling for anomaly detection in tabular data.** ICLR, 2024. [paper](https://openreview.net/forum?id=lNZJyEDxy4)
 
-   *Anonymous authors.* 
+   *Anonymous authors.*
+   
 
-### [Out of Distribution](#content)
-1. **Your out-of-distribution detection method is not robust!** NIPS, 2022. [paper](https://arxiv.org/abs/2209.15246)
-
-   *Mohammad Azizmalayeri, Arshia Soltani Moakhar, Arman Zarei, Reihaneh Zohrabi, Mohammad Taghi Manzuri, and Mohammad Hossein Rohban.* 
-
-1. **Exploiting mixed unlabeled data for detecting samples of seen and unseen out-of-distribution classes.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20814)
-
-   *Yixuan Sun and Wei Wang.* 
-
-1. **Detect, distill and update: Learned DB systems facing out of distribution data.** SIGMOD, 2023. [paper](https://arxiv.org/abs/2210.05508)
-
-   *Meghdad Kurmanji and Peter Triantafillou.* 
-
-1. **Beyond mahalanobis distance for textual OOD detection.** NIPS, 2022. [paper](https://openreview.net/forum?id=ReB7CCByD6U)
-
-   *Pierre Colombo, Eduardo Dadalto Câmara Gomes, Guillaume Staerman, Nathan Noiry, and Pablo Piantanida.* 
-
-1. **Exploring the limits of out-of-distribution detection.** NIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
-
-   *Stanislav Fort, Jie Ren, and Balaji Lakshminarayanan.* 
-
-1. **Is out-of-distribution detection learnable?** ICLR, 2022. [paper](https://openreview.net/forum?id=sde_7ZzGXOE)
-
-   *Zhen Fang, Yixuan Li, Jie Lu, Jiahua Dong, Bo Han, and Feng Liu.* 
-
-1. **Out-of-distribution detection is not all you need.** AAAI, 2023. [paper](https://arxiv.org/abs/2211.16158)
-
-   *Joris Guerin, Kevin Delmas, Raul Sena Ferreira, and Jérémie Guiochet.* 
-
-1. **iDECODe: In-distribution equivariance for conformal out-of-distribution detection.** AAAI, 2022. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20670)
-
-   *Ramneet Kaur, Susmit Jha, Anirban Roy, Sangdon Park, Edgar Dobriban, Oleg Sokolsky, and Insup Lee.* 
-
-1. **Out-of-distribution detection using an ensemble of self supervised leave-out classifiers.** ECCV, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-030-01237-3_34)
-
-   *Apoorv Vyas, Nataraj Jammalamadaka, Xia Zhu, Dipankar Das, Bharat Kaul, and Theodore L. Willke.* 
-
-1. **Self-supervised learning for generalizable out-of-distribution detection.** AAAI, 2020. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5966)
-
-   *Sina Mohseni, Mandar Pitale, JBS Yadawa, and Zhangyang Wang.* 
-
-1. **Augmenting softmax information for selective classification with out-of-distribution data.** ACCV, 2022. [paper](https://openaccess.thecvf.com/content/ACCV2022/html/Xia_Augmenting_Softmax_Information_for_Selective_Classification_with_Out-of-Distribution_Data_ACCV_2022_paper.html)
-
-   *Guoxuan Xia and Christos-Savvas Bouganis.* 
-
-1. **Robustness to spurious correlations improves semantic out-of-distribution detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2302.04132)
-
-   *Lily H. Zhang and Rajesh Ranganath.* 
-
-1. **Out-of-distribution detection with implicit outlier transformation.** ICLR, 2023. [paper](https://openreview.net/forum?id=hdghx6wbGuD)
-
-   *Qizhou Wang, Junjie Ye, Feng Liu, Quanyu Dai, Marcus Kalander, Tongliang Liu, Jianye Hao, and Bo Han.* 
-
-1. **Out-of-distribution representation learning for time series classification.** ICLR, 2023. [paper](https://openreview.net/forum?id=gUZWOE42l6Q)
-
-   *Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, and Xing Xie.* 
-
-1. **Out-of-distribution detection based on in-distribution data patterns memorization with modern Hopfield energy.** ICLR, 2023. [paper](https://openreview.net/forum?id=KkazG4lgKL)
-
-   *Jinsong Zhang, Qiang Fu, Xu Chen, Lun Du, Zelin Li, Gang Wang, xiaoguang Liu, Shi Han, and Dongmei Zhang.* 
-
-1. **Diversify and disambiguate: Out-of-distribution robustness via disagreement.** ICLR, 2023. [paper](https://openreview.net/forum?id=RVTOp3MwT3n)
-
-   *Yoonho Lee, Huaxiu Yao, and Chelsea Finn.* 
-
-1. **Rethinking out-of-distribution (OOD) detection: Masked image nodeling is all you need.** CVPR, 2023. [paper](https://arxiv.org/abs/2302.02615v2)
-
-   *Jingyao Li, Pengguang Chen, Shaozuo Yu, Zexin He, Shu Liu, and Jiaya Jia.* 
-
-1. **LINe: Out-of-distribution detection by leveraging important neurons.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.13995)
-
-   *Yong Hyun Ahn, Gyeong-Moon Park, and Seong Tae Kim.* 
-
-1. **Block selection method for using feature norm in out-of-distribution detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2212.02295)
-
-   *Yeonguk Yu, Sungho Shin, Seongju Lee, Changhyun Jun, and Kyoobin Lee.* 
-
-1. **Devil is in the queries: Advancing mask transformers for real-world medical image segmentation and out-of-distribution localization.** CVPR, 2023. [paper](https://arxiv.org/abs/2304.00212)
-
-   *Mingze Yuan, Yingda Xia, Hexin Dong, Zifan Chen, Jiawen Yao, Mingyan Qiu, Ke Yan, Xiaoli Yin, Yu Shi, Xin Chen, Zaiyi Liu, Bin Dong, Jingren Zhou, Le Lu, Ling Zhang, and Li Zhang.* 
-
-1. **Unleashing mask: Explore the intrinsic out-of-distribution detection capability.** ICML, 2023. [paper](https://arxiv.org/abs/2306.03715)
-
-   *Jianing Zhu, Hengzhuang Li, Jiangchao Yao, Tongliang Liu, Jianliang Xu, and Bo Han.* 
-
-1. **DOS: Diverse outlier sampling for out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2306.02031)
-
-   *Wenyu Jiang, Hao Cheng, Mingcai Chen, Chongjun Wang, and Hongxin Wei.* 
-
-1. **POEM: Out-of-distribution detection with posterior sampling.** ICML, 2022. [paper](https://proceedings.mlr.press/v162/ming22a.html)
-
-   *Yifei Ming, Ying Fan, and Yixuan Li.* 
-
-1. **Balanced energy regularization loss for out-of-distribution detection.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.10485)
-
-   *Hyunjun Choi, Hawook Jeong, and Jin Young Choi.* 
-
-1. **A cosine similarity-based method for out-of-distribution detection.** ICML, 2023. [paper](https://arxiv.org/abs/2306.14920)
-
-   *Nguyen Ngoc-Hieu, Nguyen Hung-Quang, The-Anh Ta, Thanh Nguyen-Tang, Khoa D Doan, and Hoang Thanh-Tung.* 
-
-1. **Beyond AUROC & co. for evaluating out-of-distribution detection performance.** CVPR, 2023. [paper](https://arxiv.org/abs/2306.14658)
-
-   *Galadrielle Humblot-Renaux, Sergio Escalera, and Thomas B. Moeslund.* 
-
-1. **Feed two birds with one scone: Exploiting wild data for both out-of-distribution generalization and detection.** ICML, 2023. [paper](https://arxiv.org/abs/2306.09158)
-
-   *Haoyue Bai, Gregory Canal, Xuefeng Du, Jeongyeol Kwon, Robert Nowak, and Yixuan Li.* 
-
-1. **Key feature replacement of in-distribution samples for out-of-distribution detection.** AAAI, 2023. [paper](https://arxiv.org/abs/2301.13012)
-
-   *Jaeyoung Kim, Seo Taek Kong, Dongbin Na, and Kyu-Hwan Jung.* 
-
-1. **Heatmap-based out-of-distribution detection.** AAAI, 2023. [paper](https://ieeexplore.ieee.org/document/10030868/)
-
-   *Julia Hornauer and Vasileios Belagiannis.* 
-
-1. **RankFeat: Rank-1 feature removal for out-of-distribution detection.** NIPS, 2022. [paper](https://openreview.net/forum?id=-deKNiSOXLG)
-
-   *Yue Song, Nicu Sebe, and Wei Wang.* 
-
-1. **Delving into out-of-distribution detection with vision-language representations.** NIPS, 2022. [paper](https://openreview.net/forum?id=KnCS9390Va)
-
-   *Yifei Ming, Ziyang Cai, Jiuxiang Gu, Yiyou Sun, Wei Li, and Yixuan Li.* 
-
-1. **Detecting out-of-distribution data through in-distribution class prior.** ICML, 2023. [paper](https://openreview.net/forum?id=charggEv8v)
-
-   *Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, and Bo Han.* 
-
-1. **Out-of-distribution detection for monocular depth estimation.** ICCV, 2023. [paper](https://arxiv.org/abs/2308.06072)
-
-   *Julia Hornauer, Adrian Holzbock, and Vasileios Belagiannis.* 
-
-1. **Expecting the unexpected: Towards broad out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2308.11480)
-
-   *Charles Guille-Escuret, Pierre-André Noël, Ioannis Mitliagkas, David Vazquez, and Joao Monteiro.* 
-
-1. **ATTA: Anomaly-aware test-time adaptation for out-of-distribution detection in segmentation.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.05994)
-
-   *Zhitong Gao, Shipeng Yan, and Xuming He.* 
-
-1. **Meta OOD learning for continuously adaptive OOD detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2309.11705)
-
-   *Xinheng Wu, Jie Lu, Zhen Fang, and Guangquan Zhang.* 
-
-1. **Nearest neighbor guidance for out-of-distribution detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2309.14888)
-
-   *Jaewoo Park, Yoon Gyo Jung, and Andrew Beng Jin Teoh.* 
-
-1. **Can pre-trained networks detect familiar out-of-distribution data?** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00847)
-
-   *Atsuyuki Miyai, Qing Yu, Go Irie, and Kiyoharu Aizawa.* 
-
-1. **Understanding the feature norm for out-of-distribution detection.** ICCV, 2023. [paper](https://arxiv.org/abs/2310.05316)
-
-   *Jaewoo Park, Jacky Chen Long Chai, Jaeho Yoon, and Andrew Beng Jin Teoh.* 
-
-1. **Detecting out-of-distribution through the lens of neural collapse.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.01479)
-
-   *Litian Liu and Yao Qin.* 
-
-1. **Learning to augment distributions for out-of-distribution detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=OtU6VvXJue)
-
-   *Qizhou Wang, Zhen Fang, Yonggang Zhang, Feng Liu, Yixuan Li, and Bo Han.* 
-
-1. **Incremental object-based novelty detection with feedback loop.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.09004)
-
-   *Simone Caldarella, Elisa Ricci, and Rahaf Aljundi.* 
-
-1. **Out-of-distribution knowledge distillation via confidence amendment.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.07975)
-
-   *Zhilin Zhao, Longbing Cao, and Yixuan Zhang.* 
-
-1. **Fast trainable projection for robust fine-tuning.** NIPS, 2023. [paper](https://openreview.net/forum?id=Tb7np0MInj)
-
-   *Junjiao Tian, Yencheng Liu, James Seale Smith, and Zsolt Kira.* 
-
-1. **Trainable projected gradient method for robust fine-tuning.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tian_Trainable_Projected_Gradient_Method_for_Robust_Fine-Tuning_CVPR_2023_paper.html)
-
-   *Junjiao Tian, Xiaoliang Dai, Chih-Yao Ma, Zecheng He, Yen-Cheng Liu, and Zsolt Kira.* 
-
-1. **GAIA: Delving into gradient-based attribution abnormality for out-of-distribution detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=XEBzQP3e7B)
-
-   *Jinggang Chen, Junjie Li, Xiaoyang Qu, Jianzong Wang, Jiguang Wan, and Jing Xiao.* 
-
-1. **Domain aligned CLIP for few-shot classification.** WACV, 2024. [paper](https://arxiv.org/abs/2311.09191)
-
-   *Muhammad Waleed Gondal, Jochen Gast, Inigo Alonso Ruiz, Richard Droste, Tommaso Macri, Suren Kumar, and Luitpold Staudigl.* 
-
-1. **Towards few-shot out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.12076)
-
-   *Jiuqing Dong, Yongbin Gao, Heng Zhou, Jun Cen, Yifan Yao, Sook Yoon, and Park Dong Sun.* 
-
-1. **Denoising diffusion models for out-of-distribution detection.** CVPR, 2023. [paper](https://openaccess.thecvf.com/content/CVPR2023W/VAND/html/Graham_Denoising_Diffusion_Models_for_Out-of-Distribution_Detection_CVPRW_2023_paper.html)
-
-   *Mark S. Graham, Walter H.L. Pinaya, Petru-Daniel Tudosiu, Parashkev Nachev, Sebastien Ourselin, and Jorge Cardoso.* 
-
-1. **RankFeat&RankWeight: Rank-1 feature/weight removal for out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.13959)
-
-   *Yue Song, Nicu Sebe, and Wei Wang.* 
-
-1. **ID-like prompt learning for few-shot out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.15243)
-
-   *Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, and Qinghua Hu.* 
-
-1. **Segment every out-of-distribution object.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.16516)
-
-   *Wenjie Zhao, Jia Li, Xin Dong, Yu Xiang, and Yunhui Guo.* 
-
-1. **Raising the Bar of AI-generated image detection with CLIP.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.00195)
-
-   *Davide Cozzolino, Giovanni Poggi, Riccardo Corvi, Matthias Nießner, and Luisa Verdoliva.* 
-
-1. **Likelihood-aware semantic alignment for full-spectrum out-of-distribution detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.01732)
-
-   *Fan Lu, Kai Zhu, Kecheng Zheng, Wei Zhai, and Yang Cao.* 
-
-1. **How low can you go? Surfacing prototypical in-distribution samples for unsupervised anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.03804)
-
-   *Felix Meissen, Johannes Getzner, Alexander Ziller, Georgios Kaissis, and Daniel Rueckert.* 
-
-1. **Residual pattern learning for pixel-wise out-of-distribution detection in semantic segmentation.** ICCV, 2023. [paper](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Residual_Pattern_Learning_for_Pixel-Wise_Out-of-Distribution_Detection_in_Semantic_Segmentation_ICCV_2023_paper.html)
-
-   *Yuyuan Liu, Choubo Ding, Yu Tian, Guansong Pang, Vasileios Belagiannis, Ian Reid, and Gustavo Carneiro.* 
-
-1. **EAT: Towards long-tailed out-of-distribution detection.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.08939)
-
-   *Tong Wei, Bolin Wang, and Minling Zhang.* 
-
-1. **GROOD: GRadient-aware out-Of-distribution detection in interpolated manifolds.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.14427)
-
-   *Mostafa ElAraby, Sabyasachi Sahoo, Yann Pequignot, Paul Novello, and Liam Paull.* 
-
-1. **On the robustness of ChatGPT: An adversarial and out-of-distribution perspective.** arXiv, 2023. [paper](https://arxiv.org/abs/2302.12095)
-
-   *Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, and Xing Xie.* 
-
-1. **Out-of-distribution detection in long-tailed recognition with calibrated outlier class learning.** AAAI, 2024. [paper](https://arxiv.org/abs/2312.10686)
-
-   *Wenjun Miao, Guansong Pang, Tianqi Li, Xiao Bai, and Jin Zheng.* 
-
-1. **Towards optimal feature-shaping methods for out-of-distribution detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=dm8e7gsH0d)
-
-   *Qinyu Zhao, Ming Xu, Kartik Gupta, Akshay Asthana, Liang Zheng, and Stephen Gould.* 
-
-1. **Learning with mixture of prototypes for out-of-distribution detection.** ICLR, 2024. [paper](https://openreview.net/forum?id=uNkKaD3MCs)
-
-   *Haodong Lu, Dong Gong, Shuo Wang, Jason Xue, Lina Yao, and Kristen Moore.* 
-
-1. **Zero-shot object-level OOD detection with context-aware inpainting.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.03292)
-
-   *Quang-Huy Nguyen, Jin Peng Zhou, Zhenzhen Liu, Khanh-Huyen Bui, Kilian Q. Weinberger, and Dung D. Le.* 
-
-1. **How does wild data provably help OOD detection?** ICLR, 2024. [paper](https://openreview.net/forum?id=jlEjB8MVGa)
-
-   *Xuefeng Du, Zhen Fang, Ilias Diakonikolas, and Yixuan Li.* 
-
-1. **Optimal parameter and neuron pruning for out-of-distribution detection.** NIPS, 2023. [paper](https://openreview.net/forum?id=TtCPFN5fhO&referrer=%5Bthe%20profile%20of%20Ze%20Chen%5D(%2Fprofile%3Fid%3D~Ze_Chen3))
-
-   *Chao Chen, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, and Jieping Ye.* 
-
-1. **Out-of-distribution detection should use conformal prediction (and vice-versa)?** arXiv, 2024. [paper](https://arxiv.org/abs/2403.11532)
-
-   *Paul Novello, Joseba Dalmau, and Léo Andeol.* 
-
-1. **Tagfog: Textual anchor guidance and fake outlier generation for visual out-of-distribution detection.** AAAI, 2024. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/27871)
-
-   *Jiankang Chen, Tong Zhang, Weishi Zheng, and Ruixuan Wang.* 
-
-1. **Learning transferable negative prompts for out-of-distribution detection.** CVPR, 2024. [paper](https://arxiv.org/abs/2404.03248)
-
-   *Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, and Jin Zheng.* 
-
-1. **Unexplored faces of robustness and out-of-distribution: Covariate shifts in environment and sensor domains.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.15882)
-
-   *Alvin Heng, Alexandre H. Thiery, and Harold Soh.* 
-
-1. **Out-of-distribution detection with a single unconditional diffusion model.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.11881)
-
-   *Eunsu Baek, Keondo Park, Jiyoon Kim, and Hyung-Sin Kim.* 
-
-1. **MultiOOD: Scaling out-of-distribution detection for multiple modalities.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.17419)
-
-   *Hao Dong, Yue Zhao, Eleni Chatzi, and Olga Fink.* 
-
-1. **When and how does in-distribution label help out-of-distribution detection?** ICML, 2024. [paper](https://arxiv.org/abs/2405.18635)
-
-   *Xuefeng Du, Yiyou Sun, and Yixuan Li.* 
-
-#### [Large Model](#content)
+#### [Large Model]
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
 
    *Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, and Onkar Dabeer.* 
@@ -1582,7 +1293,7 @@
 
    *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, and Shirui Pan.* 
 
-#### [Reinforcement Learning](#content)
+#### [Reinforcement Learning]
 1. **Towards experienced anomaly detector through reinforcement learning.** AAAI, 2018. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/12130)
 
    *Chengqiang Huang, Yulei Wu, Yuan Zuo, Ke Pei, and Geyong Min.* 
@@ -1611,7 +1322,7 @@
 
    *Chen Wang, Sarah Erfani, Tansu Alpcan, and Christopher Leckie.* 
 
-### [Representation Learning](#content)
+### [Representation Learning]
 1. **Localizing anomalies from weakly-labeled videos.** TIP, 2021. [paper](https://ieeexplore.ieee.org/document/9408419)
 
    *Hui Lv, Chuanwei Zhou, Zhen Cui, Chunyan Xu, Yong Li, and Jian Yang.* 
@@ -1704,7 +1415,7 @@
 
    *Yunhe Zhang, Yan Sun, Jinyu Cai, and Jicong Fan.* 
 
-#### [Nonparametric Approach](#content)
+#### [Nonparametric Approach]
 1. **Real-time nonparametric anomaly detection in high-dimensional settings.** TPAMI, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/8976215/)
 
    *Mehmet Necip Kurt, Yasin Yılmaz, and Xiaodong Wang.* 
