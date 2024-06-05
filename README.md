@@ -20,6 +20,10 @@
 
 (CVPR 2021) [MOS: Towards Scaling Out-of-Distribution Detection for Large Semantic Space](https://arxiv.org/pdf/2105.01879) by Rui Huang, Yixuan Li
 
+(ACL 2021) [Unsupervised Out-of-Domain Detection via Pre-trained Transformers](https://arxiv.org/pdf/2106.00948) by Keyang Xu, Tongzheng Ren, Shikun Zhang, Yihao Feng, Caiming Xiong
+
+(ACL 2021) [Contrastive Out-of-Distribution Detection for Pretrained Transformers](https://arxiv.org/pdf/2104.08812) by Wenxuan Zhou, Fangyu Liu, Muhao Chen
+
 #### 2022
 (NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) by Ming et al. [[Code]](https://github.com/deeplearning-wisc/MCM) [[Video]](https://www.youtube.com/watch?v=ZZlxBgGalVA)
 
@@ -42,8 +46,12 @@
 
 (EMNLP 2023) [Exploring Large Language Models for Multi-Modal Out-of-Distribution Detection](https://arxiv.org/pdf/2310.08027) by Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, Yongbin Li
 
+(IJCV 2023) [How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?](https://arxiv.org/pdf/2306.06048) by Yifei Ming, Yixuan Li
+
 #### 2024
 (ICLR 2024) [Out-Of-Distribution Detection With Negative Prompts](https://openreview.net/pdf?id=nanyAujl6e) by Nie et al.
+
+(ICLR 2024) [Negative Label Guided OOD Detection with Pretrained Vision-Language Models](https://arxiv.org/pdf/2403.20078) by Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, Bo Han
 
 (CVPR 2024) [ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection](https://arxiv.org/pdf/2311.15243) by Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, Qinghua Hu
 
@@ -51,6 +59,7 @@
 
 (COLING 2024) [Semantic Role Labeling Guided Out-of-distribution Detection](https://arxiv.org/pdf/2305.18026) by Jinan Zou, Maihao Guo, Yu Tian, Yuhao Lin, Haiyao Cao, Lingqiao Liu, Ehsan Abbasnejad, Javen Qinfeng Shi
 
+(ICLR 2024 Workshop) [How to train your ViT for OOD Detection](https://arxiv.org/pdf/2405.17447) by Maximilian Mueller, Matthias Hein
 ### Anomaly Detection
 (CVPR 2023) [Winclip: Zero-/few-shot anomaly classification and segmentation](https://arxiv.org/pdf/2303.14814) by Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer
 
