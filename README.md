@@ -39,6 +39,8 @@
 #### Vision Transformers
 (NeurIPS 2021) [Exploring the Limits of Out-of-Distribution Detection](https://arxiv.org/pdf/2106.03004) by Stanislav Fort, Jie Ren, Balaji Lakshminarayanan
 
+(CVPR 2023) [Rethinking Out-of-Distribution (OOD) Detection: Masked Image Modeling Is All You Need](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Rethinking_Out-of-Distribution_OOD_Detection_Masked_Image_Modeling_Is_All_You_CVPR_2023_paper.pdf) [[Code]](https://github.com/JulietLJY/MOOD) by Li et al.
+
 (ICLR 2024 Workshop) [How to train your ViT for OOD Detection](https://arxiv.org/pdf/2405.17447) by Maximilian Mueller, Matthias Hein
 
 #### Diffusion Models
