@@ -38,6 +38,8 @@
 
 (COLING 2024) [Beyond the Known: Investigating LLMs Performance on Out-of-Domain Intent Detection](https://arxiv.org/pdf/2402.17256) by Pei Wang, Keqing He, Yejie Wang, Xiaoshuai Song, Yutao Mou, Jingang Wang, Yunsen Xian, Xunliang Cai, Weiran Xu
 
+(arXiv 2024) [VI-OOD: A Unified Representation Learning Framework for Textual Out-of-distribution Detection](https://arxiv.org/pdf/2404.06217) by Li-Ming Zhan, Bo Liu, Xiao-Ming Wu
+
 ### OOD Detection for CV
 
 #### Vision Transformers
