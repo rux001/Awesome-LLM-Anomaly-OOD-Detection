@@ -30,6 +30,8 @@
 
 (ICLR 2023) [Out-of-distribution detection and selective generation for conditional language models](https://arxiv.org/pdf/2209.15558) by Jie Ren, Jiaming Luo, Yao Zhao, Kundan Krishna, Mohammad Saleh, Balaji Lakshminarayanan, Peter J. Liu
 
+(ACL 2023) [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://arxiv.org/pdf/2211.11300) by Qianhui Wu, Huiqiang Jiang, Haonan Yin, Börje F. Karlsson, Chin-Yew Lin
+
 (COLING 2024) [How Good Are LLMs at Out-of-Distribution Detection?](https://arxiv.org/pdf/2308.10261) by Bo Liu, Liming Zhan, Zexin Lu, Yujie Feng, Lei Xue, Xiao-Ming Wu
 
 (COLING 2024) [Beyond the Known: Investigating LLMs Performance on Out-of-Domain Intent Detection](https://arxiv.org/pdf/2402.17256) by Pei Wang, Keqing He, Yejie Wang, Xiaoshuai Song, Yutao Mou, Jingang Wang, Yunsen Xian, Xunliang Cai, Weiran Xu
