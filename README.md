@@ -49,7 +49,7 @@
 
 ### OOD Detection for Multimodal Models
 
-#### Language-Vision Models
+#### Vision-Language Models
 (NeurIPS 2021) [Exploring the Limits of Out-of-Distribution Detection](https://arxiv.org/pdf/2106.03004) by Stanislav Fort, Jie Ren, Balaji Lakshminarayanan
 
 (NeurIPS 2022) [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) by Ming et al. [[Code]](https://github.com/deeplearning-wisc/MCM) [[Video]](https://www.youtube.com/watch?v=ZZlxBgGalVA)
