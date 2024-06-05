@@ -26,6 +26,8 @@
 (ACL 2021) [Contrastive Out-of-Distribution Detection for Pretrained Transformers](https://arxiv.org/pdf/2104.08812) by Wenxuan Zhou, Fangyu Liu, Muhao Chen
 ** Transformers Based
 
+(ACL 2023) [Is Fine-tuning Needed? Pre-trained Language Models Are Near Perfect for Out-of-Domain Detection](https://aclanthology.org/2023.acl-long.717.pdf) by Rheeya Uppaal, Junjie Hu, Yixuan Li
+
 #### Large Language Models
 
 (ICLR 2023) [Out-of-distribution detection and selective generation for conditional language models](https://arxiv.org/pdf/2209.15558) by Jie Ren, Jiaming Luo, Yao Zhao, Kundan Krishna, Mohammad Saleh, Balaji Lakshminarayanan, Peter J. Liu
@@ -67,6 +69,8 @@
 (ICLR 2024) [Negative Label Guided OOD Detection with Pretrained Vision-Language Models](https://arxiv.org/pdf/2403.20078) by Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, Bo Han
 
 (CVPR 2024) [ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection](https://arxiv.org/pdf/2311.15243) by Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, Qinghua Hu
+
+(TMLR 2024) [Adapting Contrastive Language-Image Pretrained (CLIP) Models for Out-of-Distribution Detection](https://openreview.net/pdf?id=YCgX7sJRF1) by Nikolas Adaloglou, Felix Michels, Tim Kaiser, Markus Kollmann
 
 #### Diffusion Models
 
