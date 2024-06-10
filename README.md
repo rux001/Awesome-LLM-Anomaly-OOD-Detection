@@ -10,8 +10,6 @@
   - [Anomaly Detection](#anomaly-detection)
     - [Diffusion Model](#content)
     - [Transformer](#content)
-    - [Time Series](#content)
-    - [Tabular](#content)
     - [Large Model](#content)
 
 ## Introduction
@@ -225,6 +223,7 @@
 
    *Lujia Zhong, Shuo Huang, Jiaxin Yue, Jianwei Zhang, Zhiwei Deng, Wenhao Chi, and Yonggang Shi.*
 
+
 #### Transformer
 1. **Video anomaly detection via prediction network with enhanced spatio-temporal memory exchange.** ICASSP, 2022. [paper](https://ieeexplore.ieee.org/document/9747376)
 
@@ -366,168 +365,6 @@
 
    *Maximilian Mueller and Matthias Hein.* 
 
-
-#### Time Series
-1. **Variational LSTM enhanced anomaly detection for industrial big data.** TII, 2021. [paper](https://ieeexplore.ieee.org/abstract/document/9195000)
-
-   *Xiaokang Zhou, Yiyong Hu, Wei Liang, Jianhua Ma, and Qun Jin.* 
-
-1. **Robust anomaly detection for multivariate time series through stochastic recurrent neural network.** KDD, 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330672)
-
-   *Ya Su, Youjian Zhao, Chenhao Niu, Rong Liu, Wei Sun, and Dan Pei.* 
-
-1. **DeepLog: Anomaly detection and diagnosis from system logs through deep learning.** CCS, 2017. [paper](https://dl.acm.org/doi/10.1145/3133956.3134015)
-
-   *Min Du, Feifei Li, Guineng Zheng, and Vivek Srikumar.* 
-
-1. **Unsupervised anomaly detection with LSTM neural networks.** TNNLS, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8836638)
-
-   *Tolga Ergen and Suleyman Serdar Kozat.* 
-
-1. **LogAnomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs.** IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/658)
-
-   *Weibin Meng, Ying Liu, Yichen Zhu, Shenglin Zhang, Dan Pei, Yuqing Liu, Yihao Chen, Ruizhi Zhang, Shimin Tao, Pei Sun, and Rong Zhou.* 
-
-1. **Outlier detection for time series with recurrent autoencoder ensembles.** IJCAI, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
-
-   *Tung Kieu, Bin Yang, Chenjuan Guo, and Christian S. Jensen.* 
-
-1. **Learning regularity in skeleton trajectories for anomaly detection in videos.** CVPR, 2019. [paper](https://dl.acm.org/doi/abs/10.5555/3367243.3367418)
-
-   *Romero Morais, Vuong Le, Truyen Tran, Budhaditya Saha, Moussa Mansour, and Svetha Venkatesh.* 
-
-1. **LSTM-based encoder-decoder for multi-sensor anomaly detection.** arXiv, 2016. [paper](https://arxiv.org/abs/1607.00148)
-
-   *Pankaj Malhotra, Anusha Ramakrishnan, Gaurangi Anand, Lovekesh Vig, Puneet Agarwal, and Gautam Shroff.* 
-
-1. **CrossFuN: Multi-view joint cross fusion network for time series anomaly detection.** TIM, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10254685)
-
-   *Yunfei Bai, Jing Wang, Xueer Zhang, Xiangtai Miao, and Youfang Linf.* 
-
-1. **Unsupervised anomaly detection by densely contrastive learning for time series data.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023005385)
-
-   *Wei Zhu, Weijian Li, E. Ray Dorsey, and Jiebo Luo.* 
-
-1. **Algorithmic recourse for anomaly detection in multivariate time series.** arXiv, 2023. [paper](https://arxiv.org/abs/2309.16896)
-
-   *Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan.* 
-
-1. **Unravel anomalies: An end-to-end seasonal-trend decomposition approach for time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2310.00268)
-
-   *Zhenwei Zhang, Ruiqi Wang, Ran Ding, and Yuantao Gu.*
-
-1. **MAG: A novel approach for effective anomaly detection in spacecraft telemetry data.** TII, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10269707)
-
-   *Bing Yu, Yang Yu, Jiakai Xu, Gang Xiang, and Zhiming Yang.*
-
-1. **Duogat: Dual time-oriented graph attention networks for accurate, efficient and explainable anomaly detection on time-series.** CIKM, 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614857)
-
-   *Jongsoo Lee, Byeongtae Park, and Dong-Kyu Chae.*
-
-1. **An enhanced spatio-temporal constraints network for anomaly detection in multivariate time series.** KBS, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512300919X)
-
-   *Di Ge, Zheng Dong, Yuhang Cheng, and Yanwen Wu.*
-
-1. **Asymmetric autoencoder with SVD regularization for multivariate time series anomaly detection.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006469)
-
-   *Yueyue Yao, Jianghong Ma, Shanshan Feng, and Yunming Ye.*
-
-1. **Unraveling the anomaly in time series anomaly detection: A self-supervised tri-domain solution.** arXiv, 2023. [paper](https://arxiv.org/abs/2311.11235)
-
-   *Yuting Sun, Guansong Pang, Guanhua Ye, Tong Chen, Xia Hu, and Hongzhi Yin.*
-
-1. **A filter-augmented auto-encoder with learnable normalization for robust multivariate time series anomaly detection.** Neural Networks, 2023. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608023006706)
-
-   *Jiahao Yu, Xin Gao, Baofeng Li, Feng Zhai, Jiansheng Lu, Bing Xue, Shiyuan Fu, and Chun Xiao.*
-
-1. **MEMTO: Memory-guided Transformer for multivariate time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.02530)
-
-   *Junho Song, Keonwoo Kim, Jeonglyul Oh, and Sungzoon Cho.*
-
-1. **Entropy causal graphs for multivariate time series anomaly detection.** arXiv, 2023. [paper](https://arxiv.org/abs/2312.09478)
-
-   *Falih Gozi Febrinanto, Kristen Moore, Chandra Thapa, Mujie Liu, Vidya Saikrishna, Jiangang Ma, and Feng Xia.*
-
-1. **Label-free multivariate time series anomaly detection.** TKDE, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10380724)
-
-   *Qihang Zhou, Shibo He, Haoyu Liu, Jiming Chen, and Wenchao Meng.*
-
-1. **Quantile-long short term memory: A robust, time series anomaly detection method.** TAI, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10398596)
-
-   *Snehanshu Saha, Jyotirmoy Sarkar, Soma Dhavala, Preyank Mota, and Santonu Sarkar.*
-
-1. **PatchAD: Patch-based mlp-mixer for time series anomaly detection.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.09793)
-
-   *Zhijie Zhong, Zhiwen Yu, Yiyuan Yang, Weizheng Wang, and Kaixiang Yang.*
-
-1. **MELODY: Robust semi-supervised hybrid model for entity-level online anomaly detection with multivariate time series.** arXiv, 2024. [paper](https://arxiv.org/abs/2401.10338v1)
-
-   *Jingchao Ni, Gauthier Guinet, Peihong Jiang, Laurent Callot, and Andrey Kan.*
-
-1. **Understanding time series anomaly state detection through one-class classification.** arXiv, 2024. [paper](https://arxiv.org/abs/2402.02007v1)
-
-   *Hanxu Zhou, Yuan Zhang, Guangjie Leng, Ruofan Wang, and Zhi-Qin John Xu.*
-
-1. **Asymptotic consistent graph structure learning for multivariate time-series anomaly detection.** TIM, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10445316)
-
-   *Huaxin Pang, Shikui Wei, Youru Li, Ting Liu, Huaqi Zhang, Ying Qin, and Yao Zhao.*
-
-1. **Anomaly detection via graph attention networks-augmented mask autoregressive flow for multivariate time series.** IoT, 2024. [paper](https://ieeexplore.ieee.org/abstract/document/10453361)
-
-   *Hao Liu, Wang Luo, Lixin Han, Peng Gao, Weiyong Yang, and Guangjie Han.*
-
-1. **From chaos to clarity: Time series anomaly detection in astronomical observations.** arXiv, 2024. [paper](https://arxiv.org/abs/2403.10220)
-
-   *Xinli Hao, Yile Chen, Chen Yang, Zhihui Du, Chaohong Ma, Chao Wu, and Xiaofeng Meng.*
-
-1. **DACAD: Domain adaptation contrastive learning for anomaly detection in multivariate time series.** arXiv, 2024. [paper](https://arxiv.org/abs/2404.11269)
-
-   *Zahra Zamanzadeh Darban, Geoffrey I. Webb, and Mahsa Salehi.*
-
-1. **Variate associated domain adaptation for unsupervised multivariate time series anomaly detection.** TKDD, 2024. [paper](https://dl.acm.org/doi/10.1145/3663573)
-
-   *Yifan He, Yatao Bian, Xi Ding, Bingzhe Wu, Jihong Guan, Ji Zhang, and Shuigeng Zhou.*
-
-1. **Quo vadis, unsupervised time series anomaly detection?** ICML, 2024. [paper](https://arxiv.org/abs/2405.02678)
-
-   *M. Saquib Sarfraz, Meiyen Chen, Lukas Layer, Kunyu Peng, and Marios Koulakis.*
-
-1. **SiET: Spatial information enhanced transformer for multivariate time series anomaly detection.** KBS, 2024. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124005628)
-
-   *Weixuan Xiong, Peng Wang, Xiaochen Sun, and Jun Wang.*
-
-1. **Disentangled anomaly detection for multivariate time seriesn.** WWW, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3589335.3651492)
-
-   *Xin Jie, Xixi Zhou, Chanfei Su, Zijun Zhou, Yuqing Yuan, Jiajun Bu, and Haishuai Wang.*
-
-1. **PATE: Proximity-aware time series anomaly evaluation.** KDD, 2024. [paper](https://arxiv.org/abs/2405.12096)
-
-   *Ramin Ghorbani, Marcel J.T. Reinders, and David M.J. Tax.*
-
-1. **Large language models can be zero-shot anomaly detectors for time series?** KDD, 2024. [paper](https://arxiv.org/abs/2405.14755)
-
-   *Sarah Alnegheimish, Linh Nguyen, Laure Berti-Equille, and Kalyan Veeramachaneni.*
-
-1. **LARA: A light and anti-overfitting retraining approach for unsupervised time series anomaly detection.** WWW, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645472)
-
-   *Feiyi Chen, Zhen Qin, Mengchu Zhou, Yingying Zhang, Shuiguang Deng, Lunting Fan, Guansong Pang, and Qingsong Wen.*
-
-1. **Variate associated domain adaptation for unsupervised multivariate time series anomaly detection.** TKDD, 2024. [paper](https://dl.acm.org/doi/abs/10.1145/3663573)
-
-   *Yifan He, Yatao Bian, Xi Ding, Bingzhe Wu, Jihong Guan, Ji Zhang, and Shuigeng Zhou.*
-
-1. **Uni-directional graph structure learning-based multivariate time series anomaly detection with dynamic prior knowledge.** International Journal of Machine Learning and Cybernetics, 2024. [paper](https://link.springer.com/article/10.1007/s13042-024-02212-5)
-
-   *Shiming He, Genxin Li, Jin Wang, Kun Xie, and Pradip Kumar Sharma.*
-
-1. **Towards a general time series anomaly detector with adaptive bottlenecks and dual adversarial decoders.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.15273)
-
-   *Qichao Shentu, Beibu Li, Kai Zhao, Yang shu, Zhongwen Rao, Lujia Pan, Bin Yang, and Chenjuan Guo.*
-
-1. **USD: Unsupervised soft contrastive learning for fault detection in multivariate time series.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.16258)
-
-   *Hong Liu, Xiuxiu Qiu, Yiming Shi, and Zelin Zang.*
-   
 
 #### Large Model
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/abs/2303.05047)
@@ -676,5 +513,8 @@
 
 1. **ARC: A generalist graph anomaly detector with in-context learning.** arXiv, 2024. [paper](https://arxiv.org/abs/2405.16771)
 
-   *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, and Shirui Pan.* 
+   *Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, and Shirui Pan.*
+1. **Large language models can be zero-shot anomaly detectors for time series?** KDD, 2024. [paper](https://arxiv.org/abs/2405.14755)
+
+   *Sarah Alnegheimish, Linh Nguyen, Laure Berti-Equille, and Kalyan Veeramachaneni.*
 
