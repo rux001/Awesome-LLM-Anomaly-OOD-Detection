@@ -3,9 +3,9 @@
 
 - [Introduction](#introduction)
 - [Tentaive Curated List of Papers](#tentaive-curated-list-of-papers)
-  - [Language Foundation Models](#language-foundation-models)
+  - [Language Foundation Models](#Language-Foundation-models)
   - [Vision Foundation Models](#vision-foundation-models)
-  - [Vision-Language Foundation Models](#vision-language-foundation-models)
+  - [Multi-modal Foundation Models](#multi-modal-foundation-models)
 
 ## Introduction
 
@@ -17,16 +17,12 @@
 |------------------------|--------------|----------------|---------------|------------------|---------|---------|---------|
 | [Semantic anomaly detection with large language models](https://arxiv.org/abs/2305.11307) | Amine Elhafsi, Rohan Sinha, Christopher Agia, Edward Schmerling, Issa Nesnas, Marco Pavone | text-davinci-003 | Semantic Anomaly Detection | Vision | arXiv, 2023 | Few-shot Prompting; Chain-of-thought prompting | - |
 | [LogGPT: Exploring ChatGPT for log-based anomaly detection](https://arxiv.org/abs/2309.01189) | Jiaxing Qi, Shaohan Huang, Zhongzhi Luan, Carol Fung, Hailong Yang, Depei Qian | ChatGPT | Log-based Anomaly Detection | Log Data | arXiv, 2023 | Few-shot Prompting | - |
-| [HuntGPT: Integrating machine learning-based anomaly detection and explainable AI with large language models (LLMs)](https://arxiv.org/abs/2309.16021) | Tarek Ali, Panos Kostakos | - | Anomaly Detection, Explainable AI | - | arXiv, 2023 | - | - |
-| [Graph neural architecture search with GPT-4](https://arxiv.org/abs/2310.01436) | Haishuai Wang, Yang Gao, Xin Zheng, Peng Zhang, Hongyang Chen, Jiajun Bu | GPT-4 | Architecture Search | - | arXiv, 2023 | - | - |
-| [Exploring large language models for multi-modal out-of-distribution detection](https://arxiv.org/abs/2310.08027) | Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, Yongbin Li | - | OOD Detection | Multi-modal | EMNLP, 2023 | - | - |
-| [Detecting pretraining data from large language models](https://arxiv.org/abs/2310.16789) | Weijia Shi, Anirudh Ajith, Mengzhou Xia, Yangsibo Huang, Daogao Liu, Terra Blevins, Danqi Chen, Luke Zettlemoyer | - | Detection | Pretraining Data | arXiv, 2023 | - | - |
-| [Weakly supervised detection of hallucinations in LLM activations](https://arxiv.org/abs/2312.02798) | Miriam Rateike, Celia Cintas, John Wamburu, Tanya Akumu, Skyler Speakman | - | Detection | - | arXiv, 2023 | - | - |
+| [Exploring large language models for multi-modal out-of-distribution detection](https://arxiv.org/abs/2310.08027) | Yi Dai, Hao Lang, Kaisheng Zeng, Fei Huang, Yongbin Li | text-davinci-003; CLIP | OOD Detection | Multi-modal; Vision | EMNLP, 2023 | Zero-shot Prompting | - |
 | [Overlooked video classification in weakly supervised video anomaly detection](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Tan_Overlooked_Video_Classification_in_Weakly_Supervised_Video_Anomaly_Detection_WACVW_2024_paper.html) | Weijun Tan, Qi Yao, Jingfeng Liu | - | Anomaly Detection | Video | WACV, 2024 | - | - |
-| [Video anomaly detection and explanation via large language models](https://arxiv.org/abs/2401.05702) | Hui Lv, Qianru Sun | - | Anomaly Detection, Explanation | Video | arXiv, 2024 | - | - |
+| [Video anomaly detection and explanation via large language models](https://arxiv.org/abs/2401.05702) | Hui Lv, Qianru Sun | Video-LLaMA | Anomaly Detection, Explanation | Video | arXiv, 2024 | Hybrid | - |
 | [Large language model guided knowledge distillation for time series anomaly detection](https://arxiv.org/abs/2401.15123v1) | Chen Liu, Shibo He, Qihang Zhou, Shizhong Li, Wenchao Meng | - | Anomaly Detection, Knowledge Distillation | Time Series | arXiv, 2024 | - | - |
 | [Harnessing large language models for training-free video anomaly detection](https://arxiv.org/abs/2404.01014) | Luca Zanella, Willi Menapace, Massimiliano Mancini, Yiming Wang, Elisa Ricci | - | Anomaly Detection | Video | CVPR, 2024 | - | - |
-| [Your finetuned large language model is already a powerful out-of-distribution detector](https://arxiv.org/abs/2404.08679) | Andi Zhang, Tim Z. Xiao, Weiyang Liu, Robert Bamler, Damon Wischik | - | OOD Detection | - | arXiv, 2024 | - | - |
+| [Your finetuned large language model is already a powerful out-of-distribution detector](https://arxiv.org/abs/2404.08679) | Andi Zhang, Tim Z. Xiao, Weiyang Liu, Robert Bamler, Damon Wischik | Llama; Mistral | OOD Detection | Text | arXiv, 2024 | Fine Tuning; LLM-based likelihood ratio | - |
 | [Do LLMs understand visual anomalies? Uncovering LLM capabilities in zero-shot anomaly detection](https://arxiv.org/abs/2404.09654) | Jiaqi Zhu, Shaofeng Cai, Fang Deng, Junran Wu | - | Anomaly Detection | Visual Data | arXiv, 2024 | - | - |
 | [FiLo: Zero-shot anomaly detection by fine-grained description and high-quality localization](https://arxiv.org/abs/2404.08531) | Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Hao Li, Ming Tang, Jinqiao Wang | - | Anomaly Detection | - | arXiv, 2024 | - | - |
 | [Large language models can deliver accurate and interpretable time series anomaly detection](https://arxiv.org/abs/2405.15370) | Jiaqi Tang, Hao Lu, Ruizheng Wu, Xiaogang Xu, Ke Ma, Cheng Fang, Bin Guo, Jiangbo Lu, Qifeng Chen, Ying-Cong Chen | - | Anomaly Detection | Time Series | arXiv, 2024 | - | - |
@@ -34,7 +30,6 @@
 | [Large language models can be zero-shot anomaly detectors for time series?](https://arxiv.org/abs/2405.14755) | Sarah Alnegheimish, Linh Nguyen, Laure Berti-Equille, Kalyan Veeramachaneni | - | Anomaly Detection | Time Series | KDD, 2024 | - | - |
 | [Out-of-distribution detection and selective generation for conditional language models](https://arxiv.org/pdf/2209.15558) | Jie Ren, Jiaming Luo, Yao Zhao, Kundan Krishna, Mohammad Saleh, Balaji Lakshminarayanan, Peter J. Liu | - | OOD Detection | - | ICLR, 2023 | - | - |
 | [On the robustness of ChatGPT: An adversarial and out-of-distribution perspective](https://arxiv.org/abs/2302.12095) | Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, Xing Xie | ChatGPT | OOD Detection, Adversarial | - | arXiv, 2023 | - | - |
-| [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://arxiv.org/pdf/2211.11300) | Qianhui Wu, Huiqiang Jiang, Haonan Yin, Börje F. Karlsson, Chin-Yew Lin | - | OOD Detection | Text | ACL, 2023 | - | - |
 | [How Good Are LLMs at Out-of-Distribution Detection?](https://arxiv.org/pdf/2308.10261) | Bo Liu, Liming Zhan, Zexin Lu, Yujie Feng, Lei Xue, Xiao-Ming Wu | - | OOD Detection | - | COLING, 2024 | - | - |
 | [Beyond the Known: Investigating LLMs Performance on Out-of-Domain Intent Detection](https://arxiv.org/pdf/2402.17256) | Pei Wang, Keqing He, Yejie Wang, Xiaoshuai Song, Yutao Mou, Jingang Wang, Yunsen Xian, Xunliang Cai, Weiran Xu | - | OOD Detection | - | COLING, 2024 | - | - |
 | [VI-OOD: A Unified Representation Learning Framework for Textual Out-of-distribution Detection](https://arxiv.org/pdf/2404.06217) | Li-Ming Zhan, Bo Liu, Xiao-Ming Wu | - | OOD Detection | Text | arXiv, 2024 | - | - |
@@ -289,7 +284,7 @@
 
 (ICCV 2023) [Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects](https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_Deep_Feature_Deblurring_Diffusion_for_Detecting_Out-of-Distribution_Objects_ICCV_2023_paper.pdf) by Wu et al. [[Code]](https://github.com/AmingWu/DFDD-OOD)
 
-### Vision-Language Foundation Models
+### Multi-modal Foundation Models
 
 1. **WinCLIP: Zero-/few-shot anomaly classification and segmentation.** CVPR, 2023. [paper](https://arxiv.org/pdf/2303.14814)
 
