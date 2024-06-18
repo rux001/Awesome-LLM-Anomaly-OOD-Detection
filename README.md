@@ -71,6 +71,37 @@
 
 ### Multi-modal Foundation Models
 
+| Paper | Authors | Backbone Model | Training | Task Category | Dataset Type | Venue | Approach |
+|------------------------|--------------|----------------|---------|---------------|------------------|---------|---------|
+| [WinCLIP: Zero-/few-shot anomaly classification and segmentation](https://arxiv.org/pdf/2303.14814) | Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer | CLIP |  Training-Free | Anomaly Detection | Vision | CVPR, 2023 | - |
+| [AnomalyGPT: Detecting industrial anomalies using large vision-language models](https://arxiv.org/abs/2308.15366) | Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Ming Tang, Jinqiao Wang | ImageBind-Huge; Vicuna-7B | Fine-Tuning | Anomaly Detection | Vision | arXiv, 2023 | - |
+| [AnomalyCLIP: Object-agnostic prompt learning for zero-shot anomaly detection](https://openreview.net/forum?id=buC4E91xZE) | Qihang Zhou, Guansong Pang, Yu Tian, Shibo He, Jiming Chen | CLIP | Meta-Training | Anomaly Detection | Vision | ICLR, 2024 | Prompting |
+| [CLIP-AD: A language-guided staged dual-path model for zero-shot anomaly detection](https://arxiv.org/abs/2311.00453) | Xuhai Chen, Jiangning Zhang, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, Yong Liu | CLIP | Meta-Training | Anomaly Detection | Vision | arXiv, 2023 | Prompting |
+| [Exploring grounding potential of VQA-oriented GPT-4V for zero-shot anomaly detection](https://arxiv.org/abs/2311.02612) | Jiangning Zhang, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, Yong Liu | GPT-4V | Training-Free | Anomaly Detection | Vision | arXiv, 2023 | Prompting |
+| [Toward generalist anomaly detection via in-context residual learning with few-shot sample prompts](https://arxiv.org/abs/2403.06495) | Jiawen Zhu, Guansong Pang | CLIP | Training-Free | Anomaly Detection | Vision | CVPR, 2024 | Prompting |
+| [Adapting visual-language models for generalizable anomaly detection in medical images](https://arxiv.org/abs/2403.12570v1) | Chaoqin Huang, Aofan Jiang, Jinghao Feng, Ya Zhang, Xinchao Wang, Yanfeng Wang | CLIP | Fine-Tuning| Anomaly Detection | Medical Images | CVPR, 2024 | Adapter-based |
+| [Multimodal motion conditioned diffusion model for skeleton-based video anomaly detection](https://openaccess.thecvf.com/content/ICCV2023/html/Flaborea_Multimodal_Motion_Conditioned_Diffusion_Model_for_Skeleton-based_Video_Anomaly_Detection_ICCV_2023_paper.html) | Alessandro Flaborea, Luca Collorone, Guido Maria D’Amely di Melendugno, Stefano D’Arrigo, Bardh Prenkaj, Fabio Galasso | DDPMs | Diffusion | Anomaly Detection | Video | ICCV, 2023 | - |
+| [Hawk: Learning to understand open-world video anomalies](https://arxiv.org/abs/2405.15370) | Jun Liu, Chaoyun Zhang, Jiaxu Qian, Minghua Ma, Si Qin, Chetan Bansal, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Yixin Liu, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan | Fine-Tuning | - | Anomaly Detection | Video | arXiv, 2024 | - |
+| [PromptAD: Learning prompts with only normal samples for few-shot anomaly detection](https://arxiv.org/abs/2404.05231) | Xiaofan Li, Zhizhong Zhang, Xin Tan, Chengwei Chen, Yanyun Qu, Yuan Xie, Lizhuang Ma | CLIP | Fine-Tuning | Anomaly Detection | Vision | CVPR, 2024 | Prompting |
+| [Text prompt with normality guidance for weakly supervised video anomaly detection](https://arxiv.org/abs/2404.08531) | Zhiwei Yang, Jing Liu, Peng Wu | CLIP | Fine-Tuning | Anomaly Detection | Video | arXiv, 2024 | Prompting; Aligning |
+| [Delving into Out-of-Distribution Detection with Vision-Language Representations](https://arxiv.org/pdf/2211.13445.pdf) | Ming et al. | CLIP | Training-Free | OOD Detection | Vision | NeurIPS, 2022 | Aligning |
+| [Zero-shot out-of-distribution detection based on the pretrained model CLIP](https://arxiv.org/pdf/2109.02748) | Sepideh Esmaeilpour, Bing Liu, Eric Robertson, Lei Shu | CLIP | Augmenting CLIP with an additional set of labels | OOD Detection | Vision | AAAI, 2022 | - |
+| [LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning](https://arxiv.org/pdf/2306.01293) | Miyai et al. | CLIP | Fine-Tuning | OOD Detection | Vision | NeurIPS, 2023 | Prompting |
+| [CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No](https://arxiv.org/pdf/2308.12213) | Wang et al. | CLIP | Training-based | OOD Detection | Vision | ICCV, 2023 | Prompting |
+| [How Does Fine-Tuning Impact Out-of-Distribution Detection for Vision-Language Models?](https://arxiv.org/pdf/2306.06048) | Yifei Ming, Yixuan Li | CLIIP | Fine-Tuning | OOD Detection | Vision | IJCV, 2023 | Prompting |
+| [Out-Of-Distribution Detection With Negative Prompts](https://openreview.net/pdf?id=nanyAujl6e) | Nie et al. | CLIP | Fine-Tuning | OOD Detection | Vision | ICLR, 2024 | Prompting |
+| [Negative Label Guided OOD Detection with Pretrained Vision-Language Models](https://arxiv.org/pdf/2403.20078) | Xue Jiang, Feng Liu, Zhen Fang, Hong Chen, Tongliang Liu, Feng Zheng, Bo Han | CLIP; ALIGN; GroupViT; AltCLIP | Training-Free | OOD Detection | Vision | ICLR, 2024 | Post-hoc |
+| [ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection](https://arxiv.org/pdf/2311.15243) | Yichen Bai, Zongbo Han, Changqing Zhang, Bing Cao, Xiaoheng Jiang, Qinghua Hu | CLIP | Fine-Tuning | OOD Detection | Vision | CVPR, 2024 | Prompting |
+| [Learning transferable negative prompts for out-of-distribution detection](https://arxiv.org/abs/2404.03248) | Tianqi Li, Guansong Pang, Xiao Bai, Wenjun Miao, Jin Zheng | CLIP | Fine-Tuning | OOD Detection | Vision | CVPR, 2024 | Prompting |
+| [Adapting Contrastive Language-Image Pretrained (CLIP) Models for Out-of-Distribution Detection](https://openreview.net/pdf?id=YCgX7sJRF1) | Nikolas Adaloglou, Felix Michels, Tim Kaiser, Markus Kollmann | CLIP | Fine-Tuning | OOD Detection |  Vision | TMLR, 2024 | Adapter-based |
+| [Tagfog: Textual anchor guidance and fake outlier generation for visual out-of-distribution detection](https://ojs.aaai.org/index.php/AAAI/article/view/27871) | Jiankang Chen, Tong Zhang, Weishi Zheng, Ruixuan Wang | CLIP; ChatGPT | Fine-Tuning | OOD Detection | Vision | AAAI, 2024 | Querying |
+
+
+
+
+
+
+
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue | Approach | Summary |
 |------------------------|--------------|----------------|---------------|------------------|---------|---------|---------|
 | [WinCLIP: Zero-/few-shot anomaly classification and segmentation](https://arxiv.org/pdf/2303.14814) | Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer | CLIP | Anomaly Classification | - | CVPR, 2023 | - | - |
