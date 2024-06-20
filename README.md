@@ -4,7 +4,6 @@
 - [Introduction](#introduction)
 - [Tentaive Curated List of Papers](#tentaive-curated-list-of-papers)
   - [Language Foundation Models](#Language-Foundation-models)
-  - [Vision Foundation Models](#vision-foundation-models)
   - [Multi-modal Foundation Models](#multi-modal-foundation-models)
 
 ## Introduction
