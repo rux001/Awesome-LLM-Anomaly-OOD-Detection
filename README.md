@@ -50,6 +50,7 @@
 | [CLIP-AD: A language-guided staged dual-path model for zero-shot anomaly detection](https://arxiv.org/abs/2311.00453) | Xuhai Chen, Jiangning Zhang, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, Yong Liu | CLIP | Anomaly Detection | Vision | arXiv, 2023 | Prompting; Integrating |
 | [Exploring grounding potential of VQA-oriented GPT-4V for zero-shot anomaly detection](https://arxiv.org/abs/2311.02612) | Jiangning Zhang, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, Yong Liu | GPT-4V | Anomaly Detection | Vision | arXiv, 2023 | Prompting; Integrating |
 | [Tagfog: Textual anchor guidance and fake outlier generation for visual out-of-distribution detection](https://ojs.aaai.org/index.php/AAAI/article/view/27871) | Jiankang Chen, Tong Zhang, Weishi Zheng, Ruixuan Wang | CLIP; ChatGPT | OOD Detection | Vision | AAAI, 2024 | Prompting; Integrating |
+| [CLIPScope: Enhancing Zero-Shot OOD Detection with Bayesian Scoring](https://arxiv.org/pdf/2405.14737) | Hao Fu, Naman Patel, Prashanth Krishnamurthy, Farshad Khorrami | CLIP | OOD Detection | Vision | ArXiv, 2024 | Prompting; Integrating |
 
 ### Prompt-Tuning
 | Paper | Authors | Backbone Model | Task Category | Dataset Type | Venue | Approach |
