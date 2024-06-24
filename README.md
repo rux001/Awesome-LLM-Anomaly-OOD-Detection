@@ -27,8 +27,7 @@
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue | Approach |
 |------------------------|--------------|----------------|---------------|------------------|---------|---------|
 | [Large language model guided knowledge distillation for time series anomaly detection](https://arxiv.org/abs/2401.15123v1) | Chen Liu, Shibo He, Qihang Zhou, Shizhong Li, Wenchao Meng | GPT2 | Anomaly Detection | Time Series | arXiv, 2024 | Knowledge Distillation |
-| [Multi-Level Knowledge Distillation for Out-of-Distribution
-Detection in Text](https://arxiv.org/pdf/2211.11300) | Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text | GPT-2-small | OOD Detection | Time Series | arXiv, 2024 | Knowledge Distillation |
+| [Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text](https://arxiv.org/pdf/2211.11300) | Multi-Level Knowledge Distillation for Out-of-Distribution Detection in Text | GPT-2-small | OOD Detection | Time Series | ACL, 2023 | Knowledge Distillation |
 
 #### Integrating
 
