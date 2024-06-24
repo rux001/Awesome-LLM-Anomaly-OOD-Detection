@@ -12,15 +12,16 @@
 
 ### Language Foundation Models
 
-#### Querying
+#### Prompting
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue | Approach |
 |------------------------|--------------|----------------|---------------|------------------|---------|---------|
-| [Large language models can be zero-shot anomaly detectors for time series?](https://arxiv.org/abs/2405.14755) | Sarah Alnegheimish, Linh Nguyen, Laure Berti-Equille, Kalyan Veeramachaneni | Mistral-7B-Instruct-v0.2; gpt-3.5-turbo-instruct | Anomaly Detection | Time Series | KDD, 2024 | Querying |
-| [Semantic anomaly detection with large language models](https://arxiv.org/abs/2305.11307) | Amine Elhafsi, Rohan Sinha, Christopher Agia, Edward Schmerling, Issa Nesnas, Marco Pavone | text-davinci-003 | Anomaly Detection | Vision | arXiv, 2023 | Querying |
-| [LogGPT: Exploring ChatGPT for log-based anomaly detection](https://arxiv.org/abs/2309.01189) | Jiaxing Qi, Shaohan Huang, Zhongzhi Luan, Carol Fung, Hailong Yang, Depei Qian | ChatGPT | Anomaly Detection | Log Data | arXiv, 2023 | Querying |
-| [Harnessing large language models for training-free video anomaly detection](https://arxiv.org/abs/2404.01014) | Luca Zanella, Willi Menapace, Massimiliano Mancini, Yiming Wang, Elisa Ricci | Llama-2-13b-chat; ImageBind | Anomaly Detection | Video | CVPR, 2024 | Querying |
-| [Do LLMs understand visual anomalies? Uncovering LLM capabilities in zero-shot anomaly detection](https://arxiv.org/abs/2404.09654) | Jiaqi Zhu, Shaofeng Cai, Fang Deng, Junran Wu | CLIP; GPT-3.5 | Anomaly Detection | Vision | arXiv, 2024 | Querying |
-| [Large language models can deliver accurate and interpretable time series anomaly detection](https://arxiv.org/abs/2405.15370) | Jiaqi Tang, Hao Lu, Ruizheng Wu, Xiaogang Xu, Ke Ma, Cheng Fang, Bin Guo, Jiangbo Lu, Qifeng Chen, Ying-Cong Chen | GPT-4-1106-preview | Anomaly Detection | Time Series | arXiv, 2024 | Querying |
+| [Large language models can be zero-shot anomaly detectors for time series?](https://arxiv.org/abs/2405.14755) | Sarah Alnegheimish, Linh Nguyen, Laure Berti-Equille, Kalyan Veeramachaneni | Mistral-7B-Instruct-v0.2; gpt-3.5-turbo-instruct | Anomaly Detection | Time Series | KDD, 2024 | Prompting |
+| [Semantic anomaly detection with large language models](https://arxiv.org/abs/2305.11307) | Amine Elhafsi, Rohan Sinha, Christopher Agia, Edward Schmerling, Issa Nesnas, Marco Pavone | text-davinci-003 | Anomaly Detection | Vision | arXiv, 2023 | Prompting |
+| [LogGPT: Exploring ChatGPT for log-based anomaly detection](https://arxiv.org/abs/2309.01189) | Jiaxing Qi, Shaohan Huang, Zhongzhi Luan, Carol Fung, Hailong Yang, Depei Qian | ChatGPT | Anomaly Detection | Log Data | arXiv, 2023 | Prompting |
+| [Harnessing large language models for training-free video anomaly detection](https://arxiv.org/abs/2404.01014) | Luca Zanella, Willi Menapace, Massimiliano Mancini, Yiming Wang, Elisa Ricci | Llama-2-13b-chat; ImageBind | Anomaly Detection | Video | CVPR, 2024 | Prompting |
+| [Do LLMs understand visual anomalies? Uncovering LLM capabilities in zero-shot anomaly detection](https://arxiv.org/abs/2404.09654) | Jiaqi Zhu, Shaofeng Cai, Fang Deng, Junran Wu | CLIP; GPT-3.5 | Anomaly Detection | Vision | arXiv, 2024 | Prompting |
+| [Large language models can deliver accurate and interpretable time series anomaly detection](https://arxiv.org/abs/2405.15370) | Jiaqi Tang, Hao Lu, Ruizheng Wu, Xiaogang Xu, Ke Ma, Cheng Fang, Bin Guo, Jiangbo Lu, Qifeng Chen, Ying-Cong Chen | GPT-4-1106-preview | Anomaly Detection | Time Series | arXiv, 2024 | Prompting |
+| [Envisioning outlier exposure by large language models for out-of-distribution detection](https://arxiv.org/abs/2405.15370) | Chentao Cao, Zhun Zhong, Zhanke Zhou, Yang Liu, Tongliang Liu, Bo Han | GPT-3.5-turbo-16k | OOD Detection | Vision | ICML, 2024 | Prompting |
 
 #### Knowledge Distillation
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue | Approach |
@@ -39,13 +40,13 @@
 
 ### Multi-modal Foundation Models
 
-### Querying
+### Prompting
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue | Approach |
 |------------------------|--------------|----------------|---------------|------------------|---------|---------|
-| [WinCLIP: Zero-/few-shot anomaly classification and segmentation](https://arxiv.org/pdf/2303.14814) | Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer | CLIP | Anomaly Detection | Vision | CVPR, 2023 | Querying; Integrating |
-| [CLIP-AD: A language-guided staged dual-path model for zero-shot anomaly detection](https://arxiv.org/abs/2311.00453) | Xuhai Chen, Jiangning Zhang, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, Yong Liu | CLIP | Anomaly Detection | Vision | arXiv, 2023 | Querying; Integrating |
-| [Exploring grounding potential of VQA-oriented GPT-4V for zero-shot anomaly detection](https://arxiv.org/abs/2311.02612) | Jiangning Zhang, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, Yong Liu | GPT-4V | Anomaly Detection | Vision | arXiv, 2023 | Querying; Integrating |
-| [Tagfog: Textual anchor guidance and fake outlier generation for visual out-of-distribution detection](https://ojs.aaai.org/index.php/AAAI/article/view/27871) | Jiankang Chen, Tong Zhang, Weishi Zheng, Ruixuan Wang | CLIP; ChatGPT | OOD Detection | Vision | AAAI, 2024 | Querying; Integrating |
+| [WinCLIP: Zero-/few-shot anomaly classification and segmentation](https://arxiv.org/pdf/2303.14814) | Jongheon Jeong, Yang Zou, Taewan Kim, Dongqing Zhang, Avinash Ravichandran, Onkar Dabeer | CLIP | Anomaly Detection | Vision | CVPR, 2023 | Prompting; Integrating |
+| [CLIP-AD: A language-guided staged dual-path model for zero-shot anomaly detection](https://arxiv.org/abs/2311.00453) | Xuhai Chen, Jiangning Zhang, Guanzhong Tian, Haoyang He, Wuhao Zhang, Yabiao Wang, Chengjie Wang, Yunsheng Wu, Yong Liu | CLIP | Anomaly Detection | Vision | arXiv, 2023 | Prompting; Integrating |
+| [Exploring grounding potential of VQA-oriented GPT-4V for zero-shot anomaly detection](https://arxiv.org/abs/2311.02612) | Jiangning Zhang, Xuhai Chen, Zhucun Xue, Yabiao Wang, Chengjie Wang, Yong Liu | GPT-4V | Anomaly Detection | Vision | arXiv, 2023 | Prompting; Integrating |
+| [Tagfog: Textual anchor guidance and fake outlier generation for visual out-of-distribution detection](https://ojs.aaai.org/index.php/AAAI/article/view/27871) | Jiankang Chen, Tong Zhang, Weishi Zheng, Ruixuan Wang | CLIP; ChatGPT | OOD Detection | Vision | AAAI, 2024 | Prompting; Integrating |
 
 ### Prompt-Tuning
 | Paper | Authors | Backbone Model | Task Category | Dataset Type | Venue | Approach |
