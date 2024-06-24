@@ -69,6 +69,7 @@
 | [Adapting visual-language models for generalizable anomaly detection in medical images](https://arxiv.org/abs/2403.12570v1) | Chaoqin Huang, Aofan Jiang, Jinghao Feng, Ya Zhang, Xinchao Wang, Yanfeng Wang | CLIP | Anomaly Detection | Medical Images | CVPR, 2024 | Adapter-Tuning |
 | [Adapting Contrastive Language-Image Pretrained (CLIP) Models for Out-of-Distribution Detection](https://openreview.net/pdf?id=YCgX7sJRF1) | Nikolas Adaloglou, Felix Michels, Tim Kaiser, Markus Kollmann | CLIP | OOD Detection | Vision | TMLR, 2024 | Adapter-Tuning |
 | [Video anomaly detection and explanation via large language models](https://arxiv.org/abs/2401.05702) | Hui Lv, Qianru Sun | Video-LLaMA | Anomaly Detection | Video | arXiv, 2024 | Adapter-Tuning |
+| [VadCLIP: Adapting Vision-Language Models for Weakly Supervised Video Anomaly Detection](https://arxiv.org/abs/2401.05702) | Peng Wu, Xuerong Zhou, Guansong Pang, Lingru Zhou, Qingsen Yan, Peng Wang, Yanning Zhang | CLIP | Anomaly Detection | Video | AAAI, 2023 | Prompt-Tuning; Adapter-Tuning |
 
 ### Knowledge Distillation
 | Paper | Authors | Backbone Model | Task Category | Dataset Type | Venue | Approach |
