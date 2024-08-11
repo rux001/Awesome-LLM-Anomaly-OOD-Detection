@@ -83,6 +83,12 @@ Detailing how LLMs aid in explaining the detection results, enhancing understand
 
 ![LLMs for Explanation](/path/to/explanation_image.png)
 
+| Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue |
+|-------|---------|----------------|---------------|-------------|---------|
+| [Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM](https://arxiv.org/pdf/2406.12235) | Huaxin Zhang, Xiaohao Xu, Xiang Wang, Jialong Zuo, Chuchu Han, Xiaonan Huang, Changxin Gao, Yuehuan Wang, Nong Sang | Video-LLaVA | Anomaly Detection | Videos | ArXiv, 2024 |
+| [Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models](https://arxiv.org/html/2407.10299v1) | Yuchen Yang, Kwonjoon Lee, Behzad Dariush, Yinzhi Cao, Shao-Yuan Lo |  CogVLM-17B; GPT-4; Mistral-7B-Instruct-v0.2 | Anomaly Detection | Videos | ArXiv, 2024 |
+| [Video Anomaly Detection and Explanation via Large Language Models](https://arxiv.org/html/2401.05702v1) | Lv et al. | LLaMA | Anomaly Detection | Videos | ICCV, 2024 |
+| [Real-Time Anomaly Detection and Reactive Planning with Large Language Models](https://arxiv.org/abs/2406.09876) | Sinha et al. | BERT, Llama 2 etc. | Anomaly Detection | Robotic Data | ArXiv, 2024 |
 
 ## Citation
 
