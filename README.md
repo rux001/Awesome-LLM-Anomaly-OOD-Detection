@@ -13,7 +13,7 @@ Tracking advancements in "Large Language Models for Anomaly and Out-of-Distribut
 
 ## Introduction
 
-![Overview of LLMs for Anomaly and OOD Detection](/path/to/overview_image.png)
+![Overview of LLMs for Anomaly and OOD Detection](intro22.png)
 
 Detecting anomalies and out-of-distribution (OOD) samples is crucial for maintaining reliable and trustworthy machine learning systems. Recently, Large Language Models (LLMs) have gained significant attention in natural language processing due to their excellence in language comprehension and summarization. With advancements in multimodal understanding, LLMs can be broadly applied for anomaly and OOD detection, particularly with a focus on vision data. Integrating LLMs for these tasks has transformed traditional approaches, leveraging their potential across various data modalities and datasets. This survey systematically reviews recent works applying LLMs to anomaly and OOD detection, categorizing them based on the role of LLMs: Detection, Enhancement, and Explanation, while highlighting potential avenues for future research.
 ## Taxonomy
