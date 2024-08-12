@@ -22,7 +22,7 @@ Detecting anomalies and out-of-distribution (OOD) samples is crucial for maintai
 
 Exploring how LLMs support the enhancement of detection capabilities without being direct detectors.
 
-![LLMs for Enhancement](/path/to/enhancement_image.png)
+![LLMs for Enhancement](enhancement.png)
 
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue |
 |-------|---------|----------------|---------------|-------------|---------|
@@ -45,7 +45,7 @@ Exploring how LLMs support the enhancement of detection capabilities without bei
 
 Highlighting how LLMs directly contribute to detecting anomalies and out-of-distribution samples.
 
-![LLMs for Detection](/path/to/detection_image.png)
+![LLMs for Detection](detection.png)
 
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue |
 |-------|---------|----------------|---------------|-------------|---------|
@@ -80,8 +80,6 @@ Highlighting how LLMs directly contribute to detecting anomalies and out-of-dist
 ### LLMs for Explanation
 
 Detailing how LLMs aid in explaining the detection results, enhancing understanding and trust.
-
-![LLMs for Explanation](/path/to/explanation_image.png)
 
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue |
 |-------|---------|----------------|---------------|-------------|---------|
