@@ -6,23 +6,23 @@ Tracking advancements in "Large Language Models for Anomaly and Out-of-Distribut
 
 - [Introduction](#introduction)
 - [Taxonomy](#taxonomy)
-  - [LLMs for Enhancement](#llms-for-enhancement)
+  - [LLMs for Augmentation](#llms-for-augmentation)
   - [LLMs for Detection](#llms-for-detection)
   - [LLMs for Explanation](#llms-for-explanation)
 - [Citation](#citation)
 
 ## Introduction
 
-![Overview of LLMs for Anomaly and OOD Detection](introduction.png)
+![Overview of LLMs for Anomaly and OOD Detection](intro.png)
 
 Detecting anomalies and out-of-distribution (OOD) samples is crucial for maintaining reliable and trustworthy machine learning systems. Recently, Large Language Models (LLMs) have gained significant attention in natural language processing due to their excellence in language comprehension and summarization. With advancements in multimodal understanding, LLMs can be broadly applied for anomaly and OOD detection, particularly with a focus on vision data. Integrating LLMs for these tasks has transformed traditional approaches, leveraging their potential across various data modalities and datasets. This survey systematically reviews recent works applying LLMs to anomaly and OOD detection, categorizing them based on the role of LLMs: Detection, Enhancement, and Explanation, while highlighting potential avenues for future research.
 ## Taxonomy
 
-### LLMs for Enhancement
+### LLMs for Augmentation
 
-Exploring how LLMs support the enhancement of detection capabilities without being direct detectors.
+Exploring how LLMs support the augmentation of detection capabilities without being direct detectors.
 
-![LLMs for Enhancement](enhancement.png)
+![LLMs for Augmentation](Augmentation.png)
 
 | Paper | Authors | Backbone Model | Task Category | Dataset Type| Venue |
 |-------|---------|----------------|---------------|-------------|---------|
