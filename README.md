@@ -1,4 +1,4 @@
-# Awesome-LLM-OOD-Anomaly
+# Awesome LLMs for Anomaly and OOD Detection
 
 Tracking advancements in "Large Language Models for Anomaly and Out-of-Distribution Detection", based on our detailed survey found at [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey]().
 
@@ -15,7 +15,7 @@ Tracking advancements in "Large Language Models for Anomaly and Out-of-Distribut
 
 ![Overview of LLMs for Anomaly and OOD Detection](intro.png)
 
-Detecting anomalies and out-of-distribution (OOD) samples is crucial for maintaining reliable and trustworthy machine learning systems. Recently, Large Language Models (LLMs) have gained significant attention in natural language processing due to their excellence in language comprehension and summarization. With advancements in multimodal understanding, LLMs can be broadly applied for anomaly and OOD detection, particularly with a focus on vision data. Integrating LLMs for these tasks has transformed traditional approaches, leveraging their potential across various data modalities and datasets. This survey systematically reviews recent works applying LLMs to anomaly and OOD detection, categorizing them based on the role of LLMs: Detection, Enhancement, and Explanation, while highlighting potential avenues for future research.
+Detecting anomalies or out-of-distribution (OOD) samples is critical for maintaining the reliability and trustworthiness of machine learning systems. Recently, Large Language Models (LLMs) have demonstrated their effectiveness not only in natural language processing but also in broader applications due to their advanced comprehension and generative capabilities. The integration of LLMs into anomaly and OOD detection marks a significant shift from the traditional paradigm in the field. This survey focuses on the problem of anomaly and OOD detection under the context of LLMs. We propose a new taxonomy to categorize existing approaches into three classes based on the role played by LLMs. Following our proposed taxonomy, we further discuss the related work under each of the categories and finally discuss potential challenges and directions for future research in this field. 
 ## Taxonomy
 
 ### LLMs for Augmentation
