@@ -1,6 +1,6 @@
 # Awesome LLMs for Anomaly and OOD Detection
 
-Tracking advancements in "Large Language Models for Anomaly and Out-of-Distribution Detection", based on our detailed survey found at [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey]().
+Tracking advancements in "Large Language Models for Anomaly and Out-of-Distribution Detection", based on our detailed survey found at [Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey](https://arxiv.org/abs/2409.01980).
 
 ## Table of Contents
 
@@ -91,5 +91,13 @@ Detailing how LLMs aid in explaining the detection results, enhancing understand
 ## Citation
 
 If you find this work useful, please cite our survey paper:
+```
+@article{xu2024large,
+      title={Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey}, 
+      author={Ruiyao Xu and Kaize Ding},
+      journal={arXiv preprint arXiv:2409.01980},
+      year={2024},
+}
+```
 
          
