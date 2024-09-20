@@ -73,6 +73,7 @@ Highlighting how LLMs directly contribute to detecting anomalies and out-of-dist
 | [Harnessing large language models for training-free video anomaly detection](https://arxiv.org/abs/2404.01014) | Luca Zanella, Willi Menapace, Massimiliano Mancini, Yiming Wang, Elisa Ricci | Llama-2-13b-chat; ImageBind | Anomaly Detection | Videos | CVPR, 2024 | [Code](https://github.com/lucazanella/lavad) |
 | [Large language models can deliver accurate and interpretable time series anomaly detection](https://arxiv.org/abs/2405.15370) | Jiaqi Tang, Hao Lu, Ruizheng Wu, Xiaogang Xu, Ke Ma, Cheng Fang, Bin Guo, Jiangbo Lu, Qifeng Chen, Ying-Cong Chen | GPT-4-1106-preview | Anomaly Detection | Time Series | arXiv, 2024 | N/A |
 | [FiLo: Zero-shot anomaly detection by fine-grained description and high-quality localization](https://arxiv.org/abs/2404.08531) | Zhaopeng Gu, Bingke Zhu, Guibo Zhu, Yingying Chen, Hao Li, Ming Tang, Jinqiao Wang | CLIP | Anomaly Detection | Vision | arXiv, 2024 | [Code](https://github.com/filo-anomaly-detection) |
+| [Can LLMs Serve As Time Series Anomaly Detectors?](https://arxiv.org/pdf/2408.03475) | Manqing Dong, Hao Huang, Longbing Cao |  GPT-4  | Anomaly Detection | Time Series | arXiv, 2024 | N/A |
 
 ---
 
